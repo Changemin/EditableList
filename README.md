@@ -20,4 +20,4 @@
 
 # Working ..
 
-![preview](./images/preview.png)
+![preview](./imgs/preview.png)
